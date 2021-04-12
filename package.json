@@ -2,7 +2,7 @@
   "name": "baofolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nttb04121999.github.io",
+  "homepage": "https://baofolio.github.io",
   "dependencies": {
     "@craco/craco": "^6.1.1",
     "@testing-library/jest-dom": "^5.11.4",
