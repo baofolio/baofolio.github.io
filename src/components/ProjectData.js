@@ -11,7 +11,7 @@ const data =  [
     description: "A fun trivia game that generates random questions from different categories."
   },
   {
-    link: "https://github.com/nttb04121999/EZTrivia_Game",
+    link: "https://github.com/nttb04121999/RoadRage",
     image: roadrage,
     title: "Road Rage",
     description: "Modeling vehicles' behaviors on the street."
