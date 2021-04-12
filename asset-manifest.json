@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1c3336f.chunk.css",
+    "main.js": "/static/js/main.aa846ee3.chunk.js",
+    "main.js.map": "/static/js/main.aa846ee3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eb30fb00.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eb30fb00.js.map",
+    "static/js/2.a4838ff4.chunk.js": "/static/js/2.a4838ff4.chunk.js",
+    "static/js/2.a4838ff4.chunk.js.map": "/static/js/2.a4838ff4.chunk.js.map",
+    "static/js/3.d9949c4d.chunk.js": "/static/js/3.d9949c4d.chunk.js",
+    "static/js/3.d9949c4d.chunk.js.map": "/static/js/3.d9949c4d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a1c3336f.chunk.css.map": "/static/css/main.a1c3336f.chunk.css.map",
+    "static/js/2.a4838ff4.chunk.js.LICENSE.txt": "/static/js/2.a4838ff4.chunk.js.LICENSE.txt",
+    "static/media/CovidResourceMap_Demo.e807478f.PNG": "/static/media/CovidResourceMap_Demo.e807478f.PNG",
+    "static/media/EZTrivia_Demo.2383c2b6.gif": "/static/media/EZTrivia_Demo.2383c2b6.gif",
+    "static/media/RoadRage_Demo.2a86db95.gif": "/static/media/RoadRage_Demo.2a86db95.gif",
+    "static/media/WarmFootprint_Demo.f7eb454d.gif": "/static/media/WarmFootprint_Demo.f7eb454d.gif",
+    "static/media/logo.4a393984.svg": "/static/media/logo.4a393984.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb30fb00.js",
+    "static/js/2.a4838ff4.chunk.js",
+    "static/css/main.a1c3336f.chunk.css",
+    "static/js/main.aa846ee3.chunk.js"
+  ]
+}
