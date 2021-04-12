@@ -12,7 +12,7 @@ const NavBar = () => {
         </li>
         <li>
           <a
-            href = 'https://nttb04121999.github.io/images/Bao_Nguyen_Resume.pdf'
+            href = 'https://baofolio.github.io/images/Bao_Nguyen_Resume.pdf'
           >
             Resume
           </a>
