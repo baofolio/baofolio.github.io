@@ -15,7 +15,7 @@ const About = () => {
         </div>
         <p className="text-base md:text-2xl w-auto">
           I'm a Computer Science student from the University of Washington
-          Tacoma and a web developer. I have a deep passion for developing
+          and a web developer. I have a deep passion for developing
           software that helps to solve real-world problems and empowers others.
           I also enjoy learning and playing with new technologies.
         </p>
