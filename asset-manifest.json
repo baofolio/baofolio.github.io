@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.016163c9.chunk.css",
+    "main.css": "/static/css/main.76420b11.chunk.css",
     "main.js": "/static/js/main.9e72f316.chunk.js",
     "main.js.map": "/static/js/main.9e72f316.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.eb30fb00.js",
@@ -10,7 +10,7 @@
     "static/js/3.d9949c4d.chunk.js": "/static/js/3.d9949c4d.chunk.js",
     "static/js/3.d9949c4d.chunk.js.map": "/static/js/3.d9949c4d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.016163c9.chunk.css.map": "/static/css/main.016163c9.chunk.css.map",
+    "static/css/main.76420b11.chunk.css.map": "/static/css/main.76420b11.chunk.css.map",
     "static/js/2.a4838ff4.chunk.js.LICENSE.txt": "/static/js/2.a4838ff4.chunk.js.LICENSE.txt",
     "static/media/CovidResourceMap_Demo.e807478f.PNG": "/static/media/CovidResourceMap_Demo.e807478f.PNG",
     "static/media/EZTrivia_Demo.2383c2b6.gif": "/static/media/EZTrivia_Demo.2383c2b6.gif",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.eb30fb00.js",
     "static/js/2.a4838ff4.chunk.js",
-    "static/css/main.016163c9.chunk.css",
+    "static/css/main.76420b11.chunk.css",
     "static/js/main.9e72f316.chunk.js"
   ]
 }
